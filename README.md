@@ -6,6 +6,6 @@ A [Streamlit](https://streamlit.io) app to interactively visualize the latest ea
 ```
 git clone git@github.com:aneesh52/streamlit-earthquake-visualizer.git
 cd ./streamlit-earthquake-visualizer
-pip install --upgrade streamlit
+pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
